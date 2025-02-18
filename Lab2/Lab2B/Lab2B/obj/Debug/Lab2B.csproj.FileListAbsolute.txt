@@ -1,0 +1,10 @@
+C:\Users\lorri\source\repos\Lab2B\Lab2B\bin\Debug\Lab2B.exe.config
+C:\Users\lorri\source\repos\Lab2B\Lab2B\bin\Debug\Lab2B.exe
+C:\Users\lorri\source\repos\Lab2B\Lab2B\bin\Debug\Lab2B.pdb
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.csproj.AssemblyReference.cache
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.Form1.resources
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.Properties.Resources.resources
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.csproj.GenerateResource.cache
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.csproj.CoreCompileInputs.cache
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.exe
+C:\Users\lorri\source\repos\Lab2B\Lab2B\obj\Debug\Lab2B.pdb
