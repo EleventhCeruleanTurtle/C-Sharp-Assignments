@@ -1,0 +1,14 @@
+C:\Users\000909883\source\repos\Example\Example\bin\Debug\Example.exe.config
+C:\Users\000909883\source\repos\Example\Example\bin\Debug\Example.exe
+C:\Users\000909883\source\repos\Example\Example\bin\Debug\Example.pdb
+C:\Users\000909883\source\repos\Example\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\000909883\source\repos\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\000909883\source\repos\Example\Example\obj\Debug\Example.exe
+C:\Users\000909883\source\repos\Example\Example\obj\Debug\Example.pdb
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\obj\Debug\Example.exe
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\obj\Debug\Example.pdb
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\bin\Debug\Example.exe.config
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\bin\Debug\Example.exe
+C:\Users\lorri\OneDrive\Documents\C#\Lab 1\Example\bin\Debug\Example.pdb
