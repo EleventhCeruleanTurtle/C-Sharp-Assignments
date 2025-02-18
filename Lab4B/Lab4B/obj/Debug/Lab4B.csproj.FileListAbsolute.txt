@@ -1,0 +1,10 @@
+C:\Users\lorri\source\repos\Lab4B\Lab4B\bin\Debug\Lab4B.exe.config
+C:\Users\lorri\source\repos\Lab4B\Lab4B\bin\Debug\Lab4B.exe
+C:\Users\lorri\source\repos\Lab4B\Lab4B\bin\Debug\Lab4B.pdb
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.csproj.AssemblyReference.cache
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.Form1.resources
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.exe
+C:\Users\lorri\source\repos\Lab4B\Lab4B\obj\Debug\Lab4B.pdb
